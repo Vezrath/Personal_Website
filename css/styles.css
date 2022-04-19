@@ -1,0 +1,214 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+#profile_picture {
+    margin-top: 50px;
+    width: 153.6px;
+    height: 204.8px;
+}
+
+#physics_pic {
+    width: 150px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+
+#gaming_pic {
+    width: 140px;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 0px;
+}
+
+#matrix_pic {
+    width: 150px;
+    height: 170px;
+    float: left;
+    margin-right: 30px;
+}
+
+#code_pic {
+    width: 150px;
+    height: 170px;
+    float: left;
+    margin-right: 30px;
+}
+
+h1 {
+    color: #9C8457;
+    margin: 70px auto 5px auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #9C8457;
+    margin-bottom: 70px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: #9C8457;
+    margin-bottom: 30px;
+    font-size: 24px;
+}
+
+h4 {
+    color: #DBEBFF;
+}
+
+hr {
+    border-style: none;
+    height: 10px;
+    width: 80px;
+    border-top: 10px dotted #9C8457;
+    margin: 100px auto;
+    }
+
+a {
+    color: black;
+    font-family: Montserrat;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+}
+
+p {
+    font-size: 19px;
+}
+
+.paragraph {
+    overflow: hidden;
+}
+
+.top-container {
+    font-size: 0;
+    background-color: #DBEBFF;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container {
+    margin-bottom: 170px;
+    padding-bottom: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.landscape {
+    height: 5%;
+    width: 50%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 380px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 350px;
+}
+
+.skills {
+    background-color: #DBEBFF;
+    margin-bottom: 0px;
+    padding-bottom: 80px;
+}
+
+.codes {
+    background-color: #9DB2CF;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 80px auto 80px auto;
+    text-align: left;
+    line-height: 2;
+    font-weight: bold;
+}
+
+.profile {
+    color: #40514E;
+    font-weight: bold;
+    font-size: 22;
+}
+
+.contact-me {
+    padding-top: 0px;
+    font-weight: bold;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Montserrat;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  position: relative;
+  top: 60px;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bv4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bv4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bv4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bv4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bv4ad);
+  text-decoration: none;
+}
+
+
+.bottom-container {
+    margin-top: 100px;
+    padding-top: 70px;
+    background-color: #8FBDD3;
+    height: 120px;
+}
+
+.github-link {
+    color: blue;
+}
+.github-link:hover {
+    color: white;
+}
+
+.white {
+    color: white;
+}
+
+.footer-link {
+    margin: 0 20px;
+    font-size: 1.3rem;
+}
+
+.copyright {
+    color: white;
+    padding: 20px 0;
+    font-size: 0.8rem;
+}
